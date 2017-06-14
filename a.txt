@@ -1,0 +1,21 @@
+total 68
+drwxrwxrwt   5 root root 4096 Jun 14 07:17 tmp
+drwx------   7 root root 4096 Jun 13 08:06 mnt
+drwxr-xr-x  72 root root 4096 Mar 16 08:28 etc
+drwxr-xr-x  13 root root 4096 Jan 30 10:40 lib
+drwx------   2 root root 4096 Jan 21 13:03 root
+drwxr-xr-x  21 root root 4096 Jan 21 13:00 var
+-rw-r--r--   1 root root   27 Jan 15 14:32 dd
+drwxr-xr-x   3 root root 4096 Jan 15 11:33 run
+drwxr-xr-x   2 root root 4096 Jan 15 11:12 bin
+drwxr-xr-x   2 root root 4096 Jan 15 10:39 sbin
+drwxr-xr-x  26 root root 4096 Jan 15 10:39 usr
+drwxr-xr-x   5 root root 4096 Jan 15 09:38 home
+dr-xr-xr-x  13 root root    0 Jan 15 09:32 sys
+drwxr-xr-x   5 root root  380 Jan 15 09:32 dev
+dr-xr-xr-x 142 root root    0 Jan 15 09:32 proc
+drwxr-xr-x   2 root root 4096 Dec 13 19:08 lib64
+drwxr-xr-x   2 root root 4096 Dec 13 19:07 media
+drwxr-xr-x   2 root root 4096 Dec 13 19:07 opt
+drwxr-xr-x   2 root root 4096 Dec 13 19:07 srv
+drwxr-xr-x   2 root root 4096 Sep 12  2016 boot
